@@ -2,4 +2,6 @@ dash
 pandas
 plotly
 openpyxl
+requests
+beautifulsoup4
 gunicorn
